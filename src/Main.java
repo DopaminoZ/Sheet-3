@@ -47,6 +47,7 @@ public class Main {
         Integer j = Max(x);
         System.out.println("Maximum element: ");
         System.out.println(j);
+        //Grocery list items
         GroceryList g = new GroceryList();
         g.add(new GroceryItemOrder("Spiro", 3, 10));
         g.add(new GroceryItemOrder("Milk", 1, 20));
